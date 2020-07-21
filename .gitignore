@@ -1,0 +1,7 @@
+node_modules/
+credentials.json/
+db/
+bundle/
+bundle.zip
+.env
+config/
